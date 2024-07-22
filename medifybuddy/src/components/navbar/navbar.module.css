@@ -1,0 +1,20 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1440px;
+  height: 96px;
+  background: linear-gradient(
+    81deg,
+    #e7f0ff 9.01%,
+    rgba(232, 241, 255, 0.47) 89.11%
+  );
+
+  /* align-items: center; */
+}
+.leftPart {
+  list-style: none;
+  display: flex;
+  align-items: center;
+  padding: solid 20px red;
+}

@@ -1,0 +1,20 @@
+.herotag {
+  width: 663px;
+  height: 207px;
+}
+.image {
+  width: 644px;
+  height: 736px;
+}
+.heroDiv {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 832px;
+  width: 1440px;
+  background: linear-gradient(
+    81deg,
+    #e7f0ff 9.01%,
+    rgba(232, 241, 255, 0.47) 89.11%
+  );
+}
