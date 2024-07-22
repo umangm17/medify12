@@ -1,0 +1,12 @@
+.imageSlider {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  border: 50px;
+  margin-top: 100px;
+}
+.dotslider {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

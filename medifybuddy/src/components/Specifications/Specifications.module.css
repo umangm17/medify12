@@ -1,0 +1,13 @@
+.iconslide {
+  height: 729px;
+  width: 1449px;
+}
+.specBackground {
+  height: 729px;
+  width: 1449px;
+  background: linear-gradient(
+    81deg,
+    #e7f0ff 9.01%,
+    rgba(232, 241, 255, 0.47) 89.11%
+  );
+}
